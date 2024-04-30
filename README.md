@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
-Hi there! I'm Elijah, a second-year Software Developer student at Northern Alberta Institute of Technology (NAIT). 👨‍💻
+Hi there! I'm Elijah, a Software Developer graduate from Northern Alberta Institute of Technology (NAIT). 👨‍💻
 
-Welcome to my GitHub repository, where I invite you to explore my ongoing journey through the world of software development. Within these virtual walls, you'll encounter a diverse collection of projects, assignments, and collaborative efforts that reflect my dedication to honing my skills and applying my knowledge.
+Welcome to my GitHub repository, I invite you to explore my ongoing journey through the world of software development. Within these virtual walls, you'll encounter a diverse collection of projects, assignments, and collaborative efforts that reflect my dedication to honing my skills and applying my knowledge.
 
 ## About Me
 I'm passionate about crafting innovative solutions through code and always eager to learn and explore new technologies. Currently pursuing my education in Computer Software Development at NAIT, I'm building a strong foundation in a variety of programming languages, and frameworks.
